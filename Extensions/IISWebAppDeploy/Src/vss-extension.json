@@ -2,7 +2,7 @@
   "manifestVersion": 1,
   "extensionId": "iiswebapp3",
   "name": "Test IIS Web App Deployment Using WinRM",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "publisher": "vhorbachov2",
   "description": "Using WinRM connect to the host Computer, to deploy a Web project using Web Deploy or a SQL DB using sqlpackage.exe.",
   "public": true,
